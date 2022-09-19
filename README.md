@@ -1,5 +1,5 @@
 
-# chR
+# chR - County Health Rankings data in R
 
 Functions for retrieving 2022 county health rankings data and calculating the health factors used in rankings.
 
@@ -9,6 +9,8 @@ Future iterations will support previous iterations of the [county health ranking
 
 ```
 devtools::install_github("https://github.com/stephenrho/chR/")
+
+library(chR)
 
 # get the 2022 data release from 
 # https://www.countyhealthrankings.org/sites/default/files/media/document/analytic_data2022.csv
