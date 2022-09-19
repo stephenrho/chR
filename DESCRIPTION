@@ -1,0 +1,10 @@
+Package: chR
+Title: County Health Rankings Data in R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Stephen", "Rhodes", , "stephen.rhodes@uhhospitals.org", role = c("aut", "cre"))
+Description: Helps read in data from https://www.countyhealthrankings.org/ and calculate factors and rankings described in the [county health rankings model](https://www.countyhealthrankings.org/explore-health-rankings/measures-data-sources/county-health-rankings-model).
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
